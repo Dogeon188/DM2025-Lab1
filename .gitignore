@@ -3,6 +3,7 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore virtual environment
 .venv/
+__pycache__/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
